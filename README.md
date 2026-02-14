@@ -26,17 +26,10 @@ Creative problem solver | Detail-oriented | Self-motivated | Team player | Passi
 
 ---
 
-## 📈 GitHub Stats
-
-![Harnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarnishPrajapati&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarnishPrajapati&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/harnishprajapati)  
-- [Email](mailto:harnishprajapati@example.com)  
+- [LinkedIn](linkedin.com/in/harnish-prajapati-programmer)  
+- [Email](mailto:harnishprajapati2906@gmail.com)  
 
 ---
 
