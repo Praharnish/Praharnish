@@ -28,7 +28,7 @@ Creative problem solver | Detail-oriented | Self-motivated | Team player | Passi
 
 ## 📫 Connect With Me
 
-- [LinkedIn](linkedin.com/in/harnish-prajapati-programmer)  
+- [LinkedIn](https://www.linkedin.com/in/harnish-prajapati-programmer/)  
 - [Email](mailto:harnishprajapati2906@gmail.com)  
 
 ---
