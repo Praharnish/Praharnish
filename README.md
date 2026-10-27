@@ -66,6 +66,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -105,6 +107,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-1769AA?style=for-the-badge&logo=maildotru&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -139,6 +142,7 @@
 | [Enterprise Web Development](https://github.com/Praharnish/inft2201-webdev-enterprise) | REST API for a mail app plus authentication, authorization and RBAC | PHP · Node.js · JWT · Docker · TDD |
 | [Interactive Recipe Book](https://github.com/Praharnish/interactive-recipe-book) | Dynamic recipe browser with filtering and responsive UI | JavaScript · HTML · CSS |
 | [Interactive Recipe Book V2](https://gitlab.com/HPPrajapati2906/interactive-recipe-book-v2) | Full-stack recipe app with MongoDB backend, JWT auth, Google Sign-In, favorites, comments, and recipe submission | React · MongoDB · Vercel · JWT · Bootstrap |
+| [Developer Portfolio](https://github.com/Praharnish/portfolio) · [Live site](https://portfolio-praharnishs-projects.vercel.app/) | Responsive portfolio showcasing my background, experience, skills, projects, and career goals | Next.js · React · TypeScript · Tailwind CSS · EmailJS · Vercel |
 | [Secure Password Generator](https://github.com/Praharnish/SecurePasswordGenerator) | CLI tool for generating cryptographically strong passwords | Python |
 
 ---
